@@ -1,0 +1,75 @@
+Reach sets:
+S1's reach sets: S1, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S2's reach sets: S1, S2, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S3's reach sets: S1, S3, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S4's reach sets: S1, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S5's reach sets: S1, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S6's reach sets: S1, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S7's reach sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S8's reach sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S9's reach sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S10's reach sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S11's reach sets: S11, 
+S12's reach sets: S1, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S13's reach sets: S1, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S14's reach sets: S1, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S15's reach sets: S1, S4, S5, S6, S11, S12, S13, S14, S15, S16, S17, S18, S19, 
+S16's reach sets: S11, S16, 
+S17's reach sets: S17, 
+S18's reach sets: S18, 
+S19's reach sets: S19, 
+
+Priority sets:
+S1's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, 
+S2's priority sets: S2, S7, S8, S9, S10, 
+S3's priority sets: S3, S7, S8, S9, S10, 
+S4's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, 
+S5's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, 
+S6's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, 
+S7's priority sets: S7, S8, S9, S10, 
+S8's priority sets: S7, S8, S9, S10, 
+S9's priority sets: S7, S8, S9, S10, 
+S10's priority sets: S7, S8, S9, S10, 
+S11's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, 
+S12's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, 
+S13's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, 
+S14's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, 
+S15's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, 
+S16's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, S16, 
+S17's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, S17, 
+S18's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, S18, 
+S19's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S12, S13, S14, S15, S19, 
+
+Levels:
+Level 1: S7, S8, S9, S10, 
+Level 2: S2, S3, 
+Level 3: S1, S4, S5, S6, S12, S13, S14, S15, 
+Level 4: S16, S17, S18, S19, 
+Level 5: S11, 
+
+MICMAC points:
+S1: [13, 14]
+S2: [14, 5]
+S3: [14, 5]
+S4: [13, 14]
+S5: [13, 14]
+S6: [13, 14]
+S7: [19, 4]
+S8: [19, 4]
+S9: [19, 4]
+S10: [19, 4]
+S11: [1, 16]
+S12: [13, 14]
+S13: [13, 14]
+S14: [13, 14]
+S15: [13, 14]
+S16: [2, 15]
+S17: [1, 15]
+S18: [1, 15]
+S19: [1, 15]
+
+Cluster:
+Category 1: S11, S16, S17, S18, S19, 
+Category 2: S7, S8, S9, S10, 
+Category 3: S1, S4, S5, S6, S12, S13, S14, S15, 
+Category 4: S2, S3, 

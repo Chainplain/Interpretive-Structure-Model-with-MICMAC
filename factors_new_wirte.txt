@@ -1,0 +1,70 @@
+Reach sets:
+S1's reach sets: S1, 
+S2's reach sets: S1, S2, S4, S5, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S3's reach sets: S1, S3, S4, S5, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S4's reach sets: S1, S4, S5, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S5's reach sets: S1, S4, S5, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S6's reach sets: S1, S2, S3, S4, S5, S6, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S7's reach sets: S1, S2, S3, S4, S5, S7, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S8's reach sets: S1, S2, S3, S4, S5, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S9's reach sets: S9, 
+S10's reach sets: S1, S4, S5, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S11's reach sets: S1, S9, S11, S12, 
+S12's reach sets: S1, S9, S11, S12, 
+S13's reach sets: S1, S4, S5, S9, S10, S11, S12, S13, S14, S15, S16, S17, 
+S14's reach sets: S9, S14, 
+S15's reach sets: S15, 
+S16's reach sets: S1, S9, S11, S12, S16, 
+S17's reach sets: S1, S9, S11, S12, S17, 
+
+Priority sets:
+S1's priority sets: S1, S2, S3, S4, S5, S6, S7, S8, S10, S11, S12, S13, S16, S17, 
+S2's priority sets: S2, S6, S7, S8, 
+S3's priority sets: S3, S6, S7, S8, 
+S4's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S13, 
+S5's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S13, 
+S6's priority sets: S6, 
+S7's priority sets: S7, 
+S8's priority sets: S8, 
+S9's priority sets: S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S16, S17, 
+S10's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S13, 
+S11's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S11, S12, S13, S16, S17, 
+S12's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S11, S12, S13, S16, S17, 
+S13's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S13, 
+S14's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S13, S14, 
+S15's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S13, S15, 
+S16's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S13, S16, 
+S17's priority sets: S2, S3, S4, S5, S6, S7, S8, S10, S13, S17, 
+
+Levels:
+Level 1: S6, S7, S8, 
+Level 2: S2, S3, 
+Level 3: S4, S5, S10, S13, 
+Level 4: S14, S15, S16, S17, 
+Level 5: S11, S12, 
+Level 6: S1, S9, 
+
+MICMAC points:
+S1: [1, 14]
+S2: [13, 4]
+S3: [13, 4]
+S4: [12, 9]
+S5: [12, 9]
+S6: [15, 1]
+S7: [15, 1]
+S8: [15, 1]
+S9: [1, 15]
+S10: [12, 9]
+S11: [4, 13]
+S12: [4, 13]
+S13: [12, 9]
+S14: [2, 10]
+S15: [1, 10]
+S16: [5, 10]
+S17: [5, 10]
+
+Cluster:
+Category 1: S11, S12, S14, S15, S16, S17, 
+Category 2: S2, S3, S6, S7, S8, 
+Category 3: S4, S5, S10, S13, 
+Category 4: S1, S9, 

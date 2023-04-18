@@ -1,0 +1,26 @@
+Reach sets:
+S1's reach sets: S1, S2, 
+S2's reach sets: S1, S2, 
+S3's reach sets: S1, S2, S3, 
+S4's reach sets: S1, S2, S3, S4, 
+
+Priority sets:
+S1's priority sets: S1, S2, S3, S4, 
+S2's priority sets: S1, S2, S3, S4, 
+S3's priority sets: S3, S4, 
+S4's priority sets: S4, 
+
+Levels:
+Level 1: S4, 
+Level 2: S3, 
+Level 3: S1, S2, 
+
+MICMAC points:
+S1: [2, 4]
+S2: [2, 4]
+S3: [3, 2]
+S4: [4, 1]
+
+Cluster:
+Category 1: S3, S4, 
+Category 2: S1, S2, 
