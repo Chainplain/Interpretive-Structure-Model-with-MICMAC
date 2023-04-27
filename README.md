@@ -14,4 +14,6 @@ where changes or improvements can be made.
 
 - run the main.py, we need package: numpy, networkx, time, matplotlib, sklearn
 
+- Following the instructions to input the .xlsx name where your matrix locates, and the cluster kernel number you want in the MICMAC, which will be marked in different colors
+
 - then the results are two pics, and a txt file recording results.
