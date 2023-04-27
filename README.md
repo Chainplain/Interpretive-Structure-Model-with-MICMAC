@@ -9,7 +9,7 @@ and using this matrix to create a hierarchy of the system.
 The resulting hierarchy can help stakeholders to understand the relationships between different components of the system and to identify areas 
 where changes or improvements can be made.
 
-##How to use
+## How to use
 - Please give me a initial reach map matrix, filling 2->N rols and cols, see the example test.xlsx.
 
 - run the main.py, we need package: numpy, networkx, time, matplotlib, sklearn
